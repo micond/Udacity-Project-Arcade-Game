@@ -25,4 +25,3 @@ To run the application:
 - constructor functions to create multiple Enemy instances
 - prototypal inheritance
 - HTML5 Canvas API
-- resource loading via immediately-invoked function expressions (IIFE)

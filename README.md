@@ -9,6 +9,8 @@ In this game the goal is simple, get the hero character to move across the gray 
 #### Movement and Controls
 Users move the hero character by using the main up/right/left/down arrow keys on their keyboard.
 
+Characters change after each collision.
+
 ## Links to GitHub Repository (Master Branch)
 * GitHub Project Repository: [https://github.com/micond/Udacity-Project-Arcade-Game](https://github.com/micond/Udacity-Project-Arcade-Game "GitHub project repository")
 
